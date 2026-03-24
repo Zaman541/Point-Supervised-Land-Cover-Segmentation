@@ -9,6 +9,7 @@ task_meritiinc.zip
 # Jupyter Notebook
 .ipynb_checkpoints/
 *.ipynb_checkpoints
+weakly_supervised_segmentation_colab.ipynb
 __pycache__/
 *.pyc
 *.pyo
