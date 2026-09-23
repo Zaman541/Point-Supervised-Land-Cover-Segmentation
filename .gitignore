@@ -4,9 +4,9 @@ Dataset/
 *.pkl
 annotations/
 archive.zip
-task_meritiinc.zip
-technical_report.md
-technical_report.txt
+task_meritiinc/
+task.zip
+
 
 # Jupyter Notebook
 .ipynb_checkpoints/

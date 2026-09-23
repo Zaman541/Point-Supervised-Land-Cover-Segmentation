@@ -110,4 +110,4 @@ Place files under `Dataset/` so the folder layout matches this repository.
 ## References
 
 - DeepGlobe Land Cover dataset: https://www.kaggle.com/datasets/balraj98/deepglobe-land-cover-classification-dataset
-- Project report: `technical_report.md`
+
